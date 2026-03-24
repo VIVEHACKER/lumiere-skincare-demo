@@ -81,7 +81,7 @@ export default function ResultsSection() {
               {/* Main image */}
               <div className="rounded-2xl overflow-hidden shadow-luxury">
                 <img 
-                  src="/images/model-profile.jpg"
+                  src="./images/model-profile.jpg"
                   alt="Results"
                   className="w-full aspect-[3/4] object-cover"
                 />

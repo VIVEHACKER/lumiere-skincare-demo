@@ -4,17 +4,17 @@ const textures = [
   {
     name: 'Silky Serum',
     description: 'Lightweight, fast-absorbing',
-    image: '/images/ingredient-liquid.jpg'
+    image: './images/ingredient-liquid.jpg'
   },
   {
     name: 'Rich Cream',
     description: 'Luxuriously nourishing',
-    image: '/images/product-cream-jar.jpg'
+    image: './images/product-cream-jar.jpg'
   },
   {
     name: 'Dewy Finish',
     description: 'Natural glow, never greasy',
-    image: '/images/model-glow-skin.jpg'
+    image: './images/model-glow-skin.jpg'
   }
 ];
 

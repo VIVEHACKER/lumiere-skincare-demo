@@ -64,7 +64,7 @@ export default function ProductFocus() {
               {/* Main product image */}
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-luxury">
                 <img 
-                  src="/images/product-serum-studio.jpg" 
+                  src="./images/product-serum-studio.jpg" 
                   alt="LUMIÈRE Radiance Serum"
                   className="w-full aspect-square object-cover"
                 />
@@ -74,7 +74,7 @@ export default function ProductFocus() {
               <div className="absolute -bottom-8 -right-8 w-48 sm:w-64 z-20 animate-float-slow">
                 <div className="rounded-xl overflow-hidden shadow-luxury border-4 border-ivory">
                   <img 
-                    src="/images/product-cream-jar.jpg" 
+                    src="./images/product-cream-jar.jpg" 
                     alt="LUMIÈRE Nourishing Cream"
                     className="w-full aspect-square object-cover"
                   />

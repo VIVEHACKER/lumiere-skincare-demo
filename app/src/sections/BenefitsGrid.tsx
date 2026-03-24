@@ -5,7 +5,7 @@ const benefits = [
     title: 'Deep Hydration',
     subtitle: 'Quench Your Skin',
     description: 'Multi-layer moisture technology delivers hydration where it\'s needed most',
-    image: '/images/benefit-hydration.jpg',
+    image: './images/benefit-hydration.jpg',
     stat: '72H',
     statLabel: 'Moisture Retention'
   },
@@ -13,7 +13,7 @@ const benefits = [
     title: 'Natural Glow',
     subtitle: 'Radiance Unlocked',
     description: 'Vitamin-rich formula brightens and evens skin tone for a luminous complexion',
-    image: '/images/benefit-glow.jpg',
+    image: './images/benefit-glow.jpg',
     stat: '94%',
     statLabel: 'Saw Brighter Skin'
   },
@@ -21,7 +21,7 @@ const benefits = [
     title: 'Calming Care',
     subtitle: 'Soothe & Restore',
     description: 'Gentle botanicals reduce redness and irritation for balanced, comfortable skin',
-    image: '/images/benefit-calming.jpg',
+    image: './images/benefit-calming.jpg',
     stat: '89%',
     statLabel: 'Felt Less Irritation'
   },
@@ -29,7 +29,7 @@ const benefits = [
     title: 'Barrier Support',
     subtitle: 'Strength Within',
     description: 'Strengthens skin\'s natural defense against environmental stressors',
-    image: '/images/benefit-barrier.jpg',
+    image: './images/benefit-barrier.jpg',
     stat: '3X',
     statLabel: 'Stronger Barrier'
   }

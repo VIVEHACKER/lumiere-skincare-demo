@@ -128,7 +128,7 @@ export default function HowToUse() {
               {/* Main image */}
               <div className="rounded-2xl overflow-hidden shadow-luxury">
                 <img 
-                  src="/images/texture-application.jpg"
+                  src="./images/texture-application.jpg"
                   alt="Skincare application"
                   className="w-full aspect-[4/3] object-cover"
                 />

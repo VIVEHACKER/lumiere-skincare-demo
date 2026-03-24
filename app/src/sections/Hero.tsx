@@ -32,7 +32,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 parallax">
         <img 
-          src="/images/hero-main.jpg" 
+          src="./images/hero-main.jpg" 
           alt="LUMIÈRE Premium Skincare"
           className="w-full h-full object-cover object-center"
         />

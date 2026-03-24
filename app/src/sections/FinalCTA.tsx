@@ -111,7 +111,7 @@ export default function FinalCTA() {
               {/* Main image */}
               <div className="rounded-2xl overflow-hidden shadow-luxury">
                 <img 
-                  src="/images/product-flatlay.jpg"
+                  src="./images/product-flatlay.jpg"
                   alt="LUMIÈRE Collection"
                   className="w-full aspect-[16/10] object-cover"
                 />

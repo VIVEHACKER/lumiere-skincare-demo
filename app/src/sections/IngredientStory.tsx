@@ -4,19 +4,19 @@ const ingredients = [
   {
     name: 'Hyaluronic Acid',
     description: 'Holds 1000x its weight in water for deep, lasting hydration',
-    image: '/images/ingredient-water.jpg',
+    image: './images/ingredient-water.jpg',
     benefit: 'Hydration'
   },
   {
     name: 'Centella Asiatica',
     description: 'Ancient healing herb that calms and repairs sensitive skin',
-    image: '/images/ingredient-leaves.jpg',
+    image: './images/ingredient-leaves.jpg',
     benefit: 'Soothing'
   },
   {
     name: 'Vitamin C Complex',
     description: 'Brightening antioxidant that reveals natural radiance',
-    image: '/images/ingredient-liquid.jpg',
+    image: './images/ingredient-liquid.jpg',
     benefit: 'Radiance'
   }
 ];
